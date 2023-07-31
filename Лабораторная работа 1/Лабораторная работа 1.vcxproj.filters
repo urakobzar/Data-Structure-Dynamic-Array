@@ -18,10 +18,10 @@
     <ClCompile Include="DinamicArray.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="Dislpay.cpp">
-      <Filter>Файлы заголовков</Filter>
-    </ClCompile>
     <ClCompile Include="Common.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Dislpay.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
